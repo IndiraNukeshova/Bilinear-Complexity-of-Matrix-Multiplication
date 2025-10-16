@@ -1,4 +1,4 @@
-# Bilinear-Complexity-of-3-3-Matrix-Multiplication-over-GF-2-
+# Bilinear-Complexity-of-Matrix-Multiplication-
 # 🔢 Research on the Bilinear Complexity of 3×3 Matrix Multiplication over GF(2)
 
 This repository contains the code and computational experiments for my bachelor's thesis:  
